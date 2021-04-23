@@ -1,6 +1,6 @@
 # PopularMovies-used-MVVM-
 
-<img src="https://github.com/msatyam34/PopularMovies-used-MVVM-/blob/master/gif.gif" width="500" height="600"/>
+<img src="https://github.com/msatyam34/PopularMovies-used-MVVM-/blob/master/gif.gif" width="450" height="750"/>
 
 # Description
 - This app is used to provide the information about the ratings, description, reviews etc. of the latest released popular movies.
